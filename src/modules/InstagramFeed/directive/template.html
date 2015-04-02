@@ -1,0 +1,9 @@
+<div class="instagram-stream">
+    <ul class="block-grid">
+        <li ng-repeat="p in instagramPics">
+            <a href="{{ p.link }}" target="_blank">
+                <img ng-src="{{ p.images.low_resolution.url }}" />
+            </a>
+        </li>
+    </ul>
+</div>
