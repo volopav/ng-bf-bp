@@ -39,6 +39,7 @@ gulp.task('clean-js', function () {
 gulp.task('scripts', ['clean-js'], function () {
     return gulp.src(appEntryPoint)
         .pipe(browserify({
+            paths: ['./node_modules', './src'],
             transform: stringify({
                 extensions: ['.html']
             })

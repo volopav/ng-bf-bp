@@ -1,1 +1,1 @@
-require('angular').bootstrap(document, [require('./app').name]);
+require('angular').bootstrap(document, [require('app').name]);
