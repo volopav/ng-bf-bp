@@ -12,6 +12,8 @@ so new features will be added and bugs will be fixed. You are free to fork this 
 
 (will later explain why)
 
+Inspired by [https://blog.codecentric.de/en/2014/08/angularjs-browserify/]
+
 ## Software requirements
 
 NodeJS 0.10+
