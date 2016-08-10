@@ -1,4 +1,4 @@
-# Angular + Browserify Boilerplate
+# TEST Angular + Browserify Boilerplate
 
 This is very simple boileplate code for modular AngularJS application. Work is still in progress, 
 so new features will be added and bugs will be fixed. You are free to fork this and I'm open to advices
